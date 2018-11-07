@@ -1,0 +1,5 @@
+c:\Users\StorM\Documents\Visual Studio 2015\Projects\adodemo\Ninja.Module2Demo\NinjaDomain.Classes\bin\Debug\NinjaDomain.Classes.dll
+c:\Users\StorM\Documents\Visual Studio 2015\Projects\adodemo\Ninja.Module2Demo\NinjaDomain.Classes\bin\Debug\NinjaDomain.Classes.pdb
+c:\Users\StorM\Documents\Visual Studio 2015\Projects\adodemo\Ninja.Module2Demo\NinjaDomain.Classes\obj\Debug\NinjaDomain.Classes.csprojResolveAssemblyReference.cache
+c:\Users\StorM\Documents\Visual Studio 2015\Projects\adodemo\Ninja.Module2Demo\NinjaDomain.Classes\obj\Debug\NinjaDomain.Classes.dll
+c:\Users\StorM\Documents\Visual Studio 2015\Projects\adodemo\Ninja.Module2Demo\NinjaDomain.Classes\obj\Debug\NinjaDomain.Classes.pdb
