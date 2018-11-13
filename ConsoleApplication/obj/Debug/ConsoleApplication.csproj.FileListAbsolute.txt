@@ -1,0 +1,14 @@
+C:\Users\StorM\Documents\Visual Studio 2015\Projects\Ninja.Module2Demo\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+C:\Users\StorM\Documents\Visual Studio 2015\Projects\Ninja.Module2Demo\ConsoleApplication\bin\Debug\EntityFramework.dll
+C:\Users\StorM\Documents\Visual Studio 2015\Projects\Ninja.Module2Demo\ConsoleApplication\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\StorM\Documents\Visual Studio 2015\Projects\Ninja.Module2Demo\ConsoleApplication\bin\Debug\NinjaDomain.Classes.dll
+C:\Users\StorM\Documents\Visual Studio 2015\Projects\Ninja.Module2Demo\ConsoleApplication\bin\Debug\NinjaDomain.DataModel.dll
+C:\Users\StorM\Documents\Visual Studio 2015\Projects\Ninja.Module2Demo\ConsoleApplication\bin\Debug\NinjaDomain.Classes.pdb
+C:\Users\StorM\Documents\Visual Studio 2015\Projects\Ninja.Module2Demo\ConsoleApplication\bin\Debug\NinjaDomain.DataModel.pdb
+C:\Users\StorM\Documents\Visual Studio 2015\Projects\Ninja.Module2Demo\ConsoleApplication\bin\Debug\EntityFramework.xml
+C:\Users\StorM\Documents\Visual Studio 2015\Projects\Ninja.Module2Demo\ConsoleApplication\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\StorM\Documents\Visual Studio 2015\Projects\Ninja.Module2Demo\ConsoleApplication\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache
+C:\Users\StorM\Documents\Visual Studio 2015\Projects\Ninja.Module2Demo\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
+C:\Users\StorM\Documents\Visual Studio 2015\Projects\Ninja.Module2Demo\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+C:\Users\StorM\Documents\Visual Studio 2015\Projects\Ninja.Module2Demo\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+C:\Users\StorM\Documents\Visual Studio 2015\Projects\Ninja.Module2Demo\ConsoleApplication\obj\Debug\ConsoleApplication.exe

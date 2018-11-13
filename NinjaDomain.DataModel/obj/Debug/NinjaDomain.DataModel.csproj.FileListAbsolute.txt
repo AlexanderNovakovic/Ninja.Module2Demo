@@ -13,3 +13,17 @@ c:\Users\StorM\Documents\Visual Studio 2015\Projects\adodemo\Ninja.Module2Demo\N
 c:\Users\StorM\Documents\Visual Studio 2015\Projects\adodemo\Ninja.Module2Demo\NinjaDomain.DataModel\obj\Debug\NinjaDomain.DataModel.Migrations.Initial.resources
 c:\Users\StorM\Documents\Visual Studio 2015\Projects\adodemo\Ninja.Module2Demo\NinjaDomain.DataModel\obj\Debug\NinjaDomain.DataModel.csproj.GenerateResource.Cache
 c:\Users\StorM\Documents\Visual Studio 2015\Projects\adodemo\Ninja.Module2Demo\NinjaDomain.DataModel\obj\Debug\NinjaDomain.DataModel.Migrations.AddBirthdayToNinja.resources
+C:\Users\StorM\Documents\Visual Studio 2015\Projects\Ninja.Module2Demo\NinjaDomain.DataModel\bin\Debug\NinjaDomain.DataModel.dll
+C:\Users\StorM\Documents\Visual Studio 2015\Projects\Ninja.Module2Demo\NinjaDomain.DataModel\bin\Debug\NinjaDomain.DataModel.pdb
+C:\Users\StorM\Documents\Visual Studio 2015\Projects\Ninja.Module2Demo\NinjaDomain.DataModel\bin\Debug\EntityFramework.dll
+C:\Users\StorM\Documents\Visual Studio 2015\Projects\Ninja.Module2Demo\NinjaDomain.DataModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\StorM\Documents\Visual Studio 2015\Projects\Ninja.Module2Demo\NinjaDomain.DataModel\bin\Debug\NinjaDomain.Classes.dll
+C:\Users\StorM\Documents\Visual Studio 2015\Projects\Ninja.Module2Demo\NinjaDomain.DataModel\bin\Debug\NinjaDomain.Classes.pdb
+C:\Users\StorM\Documents\Visual Studio 2015\Projects\Ninja.Module2Demo\NinjaDomain.DataModel\bin\Debug\EntityFramework.xml
+C:\Users\StorM\Documents\Visual Studio 2015\Projects\Ninja.Module2Demo\NinjaDomain.DataModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\StorM\Documents\Visual Studio 2015\Projects\Ninja.Module2Demo\NinjaDomain.DataModel\obj\Debug\NinjaDomain.DataModel.csprojResolveAssemblyReference.cache
+C:\Users\StorM\Documents\Visual Studio 2015\Projects\Ninja.Module2Demo\NinjaDomain.DataModel\obj\Debug\NinjaDomain.DataModel.Migrations.Initial.resources
+C:\Users\StorM\Documents\Visual Studio 2015\Projects\Ninja.Module2Demo\NinjaDomain.DataModel\obj\Debug\NinjaDomain.DataModel.Migrations.AddBirthdayToNinja.resources
+C:\Users\StorM\Documents\Visual Studio 2015\Projects\Ninja.Module2Demo\NinjaDomain.DataModel\obj\Debug\NinjaDomain.DataModel.csproj.GenerateResource.Cache
+C:\Users\StorM\Documents\Visual Studio 2015\Projects\Ninja.Module2Demo\NinjaDomain.DataModel\obj\Debug\NinjaDomain.DataModel.dll
+C:\Users\StorM\Documents\Visual Studio 2015\Projects\Ninja.Module2Demo\NinjaDomain.DataModel\obj\Debug\NinjaDomain.DataModel.pdb
